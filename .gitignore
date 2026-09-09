@@ -1,0 +1,8 @@
+﻿.env
+data\*.db
+data\.key
+clave_generada.txt
+__pycache__\
+*.pyc
+logs\*.log
+backups\*.zip

@@ -1,0 +1,6 @@
+﻿python-telegram-bot[job-queue]==21.6
+cryptography==43.0.1
+python-dotenv==1.0.1
+apscheduler==3.10.4
+matplotlib==3.9.2
+werkzeug==3.0.4
